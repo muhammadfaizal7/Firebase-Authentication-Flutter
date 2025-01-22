@@ -1,16 +1,12 @@
-# minimal_sosial_media
+Proyek Flutter Firebase Authentication
 
-A new Flutter project.
+Deskripsi
+Proyek ini merupakan aplikasi Flutter yang mengimplementasikan fitur autentikasi pengguna menggunakan Firebase Authentication. Aplikasi ini memungkinkan pengguna untuk:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mendaftar: Membuat akun baru dengan email dan password.
+Login: Masuk ke akun yang sudah ada.
+Lupa Password: Mereset password jika lupa.
+Teknologi yang Digunakan
+Flutter: Framework UI untuk membangun aplikasi mobile multi-platform.
+Dart: Bahasa pemrograman untuk mengembangkan aplikasi Flutter.
+Firebase: Platform pengembangan aplikasi mobile dan web dari Google, khususnya Firebase Authentication untuk fitur autentikasi.
